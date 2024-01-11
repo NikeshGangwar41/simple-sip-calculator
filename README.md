@@ -11,5 +11,5 @@ The SIP (Systematic Investment Plan) Calculator is a tool to estimate the future
 ## Usage
 
 1. Clone the repository:
-   git clone https://github.com/NikeshGangwar41/simple-sip-calculator.git
+   git clone https://github.com/NikeshGangwar41/simple-sip-calculator.git<br>
    cd simple-sip-calculator
